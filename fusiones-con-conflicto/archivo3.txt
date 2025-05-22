@@ -1,1 +1,2 @@
 Tercer conflicto en archivo3 resuelto
+archivo3 generando conflicto
